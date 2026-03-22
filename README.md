@@ -5,7 +5,7 @@
 
 ---
 
-## 🚀 My Role (Business Analyst Intern)
+## 🚀 My Role (Business Analyst)
 I was responsible for the full BA lifecycle, from eliciting requirements to solution design:
 - Conducted user surveys and competitor analysis (Mealime, Tasty).  
 - Created Software Requirement Specifications (SRS) and managed the Product Backlog.  
